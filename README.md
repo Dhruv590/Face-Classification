@@ -1,4 +1,4 @@
-# Face-Classification-
+# Face-Classification
 COEN 240 - Machine Learning Final Project 
 
 How to Run ALL the files - 
